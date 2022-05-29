@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+body{
+    background-color:#4e657a;
+    
+}
+#bg{
+    background-color: #435c70;
+    box-shadow: 1px 1px 5px 0 #455c71;
+    height: 350px;
+    width: 535px;
+    position: relative;
+    left: 80px;
+    top:30px;
+    
+}
+
+
+
+#welcome{
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: 90px;
+   
+}
+
+#col1div{
+    display: flex;
+    
+}
+
+#bg2{
+    background-color: #435c70; 
+    height: 350px;
+    width: 535px;
+    position: relative;
+    left: 80px;
+    top:30px;
+    margin-left: 40px;
+    box-shadow: 1px 1px 5px 0 #455c71;
+}
+
+#latesthits{
+    color: white;
+    font-size: 17.6px;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-top: 15px;
+}
+
+
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+#chart {
+  max-width: 650px;
+  margin: 35px auto;
+}

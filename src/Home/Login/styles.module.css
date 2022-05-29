@@ -1,0 +1,140 @@
+body{
+    background-color:#4e657a;
+}
+#bg{
+    background-color: #435c70;
+    
+    height: 520px;
+    width: 460px;
+    margin-left: 400px;
+    margin-top: 60px;
+    margin-right: 400px;
+}
+.form{
+
+    border: none;
+    box-shadow: none;
+}
+
+#innerdiv{
+    padding: 30px;
+}
+
+.button1{
+    color: white;
+    background-color: #F5A623;
+    width: 380px;
+    height: 50px;
+    padding: 13px 28px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    margin-bottom: 40px;
+    position: relative;
+    right: 75px;
+    top:10px;
+    
+}
+
+.button1:hover{
+    border: 2px solid #F5A623;
+    background-color: #54657d;
+    color: #F5A623;
+}
+
+.button2{
+    color: white;
+    background-color: #F5A623;
+    width: 380px;
+    height: 50px;
+    padding: 13px 28px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    position: relative;
+    right: 85px;
+    top:20px;
+}
+.button2:hover{
+    border: 2px solid #F5A623;
+    background-color: #54657d;
+    color: #F5A623;
+}
+
+#textbox1{
+    width: 340px;
+    height: 10px;
+    padding: 19px 18px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: #54657d;
+    border: none;
+    position: relative;
+    right: 85px;
+    top: 10px;
+}
+#textbox2{
+    width: 340px;
+    height: 10px;
+    padding: 19px 18px;
+    margin-left: 10px;
+    margin-bottom: 25px;
+    background-color: #54657d;
+    border: none;
+    position: relative;
+    right: 85px;
+    top: 10px;
+}
+#welcome{
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+}
+#text1{
+    margin-bottom: 10px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 40px;
+    position: relative;
+    right: 85px;
+    bottom: 5px;
+
+}
+#text2{
+    margin-bottom: 10px;
+    color: white;
+    margin-left: 10px;
+    position: relative;
+    right: 85px;
+    bottom: 5px;
+}
+
+#footer{
+    background-color: #567086;
+    width: 1260px;
+    height: 70px;
+    box-shadow: 1px 1px 1px 1px #435c70;
+    margin-top: 60px;
+
+}
+
+
+#copyright{
+    color: white;
+    font-size: 14px;
+    padding: 20px 450px;
+}
+
+#foot{
+    width: 100%;
+    background-color:#4e657a;
+    margin-top: 60px;
+
+}
